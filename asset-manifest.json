@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oleh-kalynovskyi/todo-app/static/css/main.e9adaedc.chunk.css",
+    "main.js": "/oleh-kalynovskyi/todo-app/static/js/main.e66ca20e.chunk.js",
+    "main.js.map": "/oleh-kalynovskyi/todo-app/static/js/main.e66ca20e.chunk.js.map",
+    "runtime-main.js": "/oleh-kalynovskyi/todo-app/static/js/runtime-main.27d62115.js",
+    "runtime-main.js.map": "/oleh-kalynovskyi/todo-app/static/js/runtime-main.27d62115.js.map",
+    "static/js/2.409ae2e2.chunk.js": "/oleh-kalynovskyi/todo-app/static/js/2.409ae2e2.chunk.js",
+    "static/js/2.409ae2e2.chunk.js.map": "/oleh-kalynovskyi/todo-app/static/js/2.409ae2e2.chunk.js.map",
+    "index.html": "/oleh-kalynovskyi/todo-app/index.html",
+    "static/css/main.e9adaedc.chunk.css.map": "/oleh-kalynovskyi/todo-app/static/css/main.e9adaedc.chunk.css.map",
+    "static/js/2.409ae2e2.chunk.js.LICENSE.txt": "/oleh-kalynovskyi/todo-app/static/js/2.409ae2e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d62115.js",
+    "static/js/2.409ae2e2.chunk.js",
+    "static/css/main.e9adaedc.chunk.css",
+    "static/js/main.e66ca20e.chunk.js"
+  ]
+}
